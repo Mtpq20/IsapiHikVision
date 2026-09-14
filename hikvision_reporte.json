@@ -1,0 +1,1352 @@
+{
+  "consultado_en": "2026-09-14T17:24:17.456834",
+  "equipo": {
+    "host": "192.168.18.211",
+    "puerto": 80
+  },
+  "device_info": {
+    "raw_xml": "<DeviceInfo version=\"2.0\" xmlns=\"http://www.isapi.org/ver20/XMLSchema\">\r\n<deviceName>Access Controller</deviceName>\r\n<deviceID>255</deviceID>\r\n<model>DS-K1T320EFWX-B</model>\r\n<serialNumber>DS-K1T320EFWX-B20241227V030520ENGN2602097</serialNumber>\r\n<macAddress>88:de:39:5e:a2:aa</macAddress>\r\n<firmwareVersion>V3.5.20</firmwareVersion>\r\n<firmwareReleasedDate>build 241227</firmwareReleasedDate>\r\n<encoderVersion>V1.7.0.723868 build 2024-10-29</encoderVersion>\r\n<encoderReleasedDate>build 241029</encoderReleasedDate>\r\n<deviceType>ACS</deviceType>\r\n<subDeviceType>accessControlTerminal</subDeviceType>\r\n<telecontrolID>1</telecontrolID>\r\n<localZoneNum>0</localZoneNum>\r\n<alarmOutNum>0</alarmOutNum>\r\n<electroLockNum>1</electroLockNum>\r\n<manufacturer>hikvision</manufacturer>\r\n<OEMCode>1</OEMCode>\r\n<bspVersion>V1.1.0.683512 build 2024-11-14</bspVersion>\r\n<dspVersion>V1.7.0.723868 build 2024-10-29</dspVersion>\r\n<marketType>1</marketType>\r\n<productionDate>2026-01-07</productionDate>\r\n</DeviceInfo>\r\n"
+  },
+  "rango": {
+    "inicio": "2026-09-13T17:24:12.345200",
+    "fin": "2026-09-14T17:24:12.345200"
+  },
+  "total_eventos": 115,
+  "eventos": [
+    {
+      "major": 2,
+      "minor": 1024,
+      "time": "2026-09-14T08:00:14-05:00",
+      "serialNo": 1604,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:00:25-05:00",
+      "doorNo": 1,
+      "serialNo": 1606,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:00:25-05:00",
+      "cardType": 1,
+      "name": "Jenifer Mercedes Carhuamaca Morales",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "62916601",
+      "serialNo": 1605,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.27,
+        "width": 0.174,
+        "x": 0.133,
+        "y": 0.725
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:00:30-05:00",
+      "doorNo": 1,
+      "serialNo": 1607,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 1029,
+      "time": "2026-09-14T08:00:30-05:00",
+      "serialNo": 1608,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:00:45-05:00",
+      "doorNo": 1,
+      "serialNo": 1610,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:00:45-05:00",
+      "cardType": 1,
+      "name": "Jhomar Grover Buenalaya Vargas ",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "60316214",
+      "serialNo": 1609,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.572,
+        "width": 0.273,
+        "x": 0,
+        "y": 0.344
+      }
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:00:47-05:00",
+      "cardType": 1,
+      "name": "Jesus David Ledesma Fernandez",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "76339946",
+      "serialNo": 1611,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.347,
+        "width": 0.167,
+        "x": 0,
+        "y": 0.566
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:00:52-05:00",
+      "doorNo": 1,
+      "serialNo": 1612,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 80,
+      "time": "2026-09-14T08:01:25-05:00",
+      "serialNo": 1613,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:02:25-05:00",
+      "doorNo": 1,
+      "serialNo": 1615,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:02:25-05:00",
+      "cardType": 1,
+      "name": "Brayan Jesus Huamalies Rodriguez",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "76515619",
+      "serialNo": 1614,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.634,
+        "width": 0.359,
+        "x": 0.338,
+        "y": 0.2
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:02:30-05:00",
+      "doorNo": 1,
+      "serialNo": 1616,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:02:31-05:00",
+      "doorNo": 1,
+      "serialNo": 1618,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:02:31-05:00",
+      "cardType": 1,
+      "name": "Mayerly Ayelen Galarza Sanchez",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "60514630",
+      "serialNo": 1617,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.268,
+        "width": 0.179,
+        "x": 0.24,
+        "y": 0.728
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:02:36-05:00",
+      "doorNo": 1,
+      "serialNo": 1619,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 76,
+      "time": "2026-09-14T08:02:39-05:00",
+      "cardType": 1,
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "serialNo": 1620,
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.547,
+        "width": 0.31,
+        "x": 0.175,
+        "y": 0.416
+      }
+    },
+    {
+      "major": 5,
+      "minor": 76,
+      "time": "2026-09-14T08:02:42-05:00",
+      "cardType": 1,
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "serialNo": 1621,
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.541,
+        "width": 0.307,
+        "x": 0.234,
+        "y": 0.414
+      }
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T08:03:13-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1622,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T08:03:23-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1623,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 2,
+      "minor": 1064,
+      "time": "2026-09-14T08:03:25-05:00",
+      "serialNo": 1624,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:03:39-05:00",
+      "doorNo": 1,
+      "serialNo": 1626,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:03:39-05:00",
+      "cardType": 1,
+      "name": "Tamy Adela Chacón Rojas",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "73019151",
+      "serialNo": 1625,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.585,
+        "width": 0.407,
+        "x": 0.59,
+        "y": 0.41
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:03:44-05:00",
+      "doorNo": 1,
+      "serialNo": 1627,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 76,
+      "time": "2026-09-14T08:03:49-05:00",
+      "cardType": 1,
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "serialNo": 1628,
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.51,
+        "width": 0.289,
+        "x": 0.365,
+        "y": 0.186
+      }
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T08:07:53-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1629,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:08:17-05:00",
+      "doorNo": 1,
+      "serialNo": 1631,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:08:17-05:00",
+      "cardType": 1,
+      "name": "Jeremy Raul Calderon Medina",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "73123591",
+      "serialNo": 1630,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.444,
+        "width": 0.204,
+        "x": 0,
+        "y": 0.383
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:08:22-05:00",
+      "doorNo": 1,
+      "serialNo": 1632,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:08:52-05:00",
+      "doorNo": 1,
+      "serialNo": 1634,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:08:52-05:00",
+      "cardType": 1,
+      "name": "Jhomar Grover Buenalaya Vargas ",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "60316214",
+      "serialNo": 1633,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.342,
+        "width": 0.157,
+        "x": 0,
+        "y": 0.455
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:08:57-05:00",
+      "doorNo": 1,
+      "serialNo": 1635,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 2,
+      "minor": 1065,
+      "time": "2026-09-14T08:33:26-05:00",
+      "serialNo": 1636,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 80,
+      "time": "2026-09-14T08:33:55-05:00",
+      "serialNo": 1637,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 2,
+      "minor": 1024,
+      "time": "2026-09-14T08:37:29-05:00",
+      "serialNo": 1638,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 1029,
+      "time": "2026-09-14T08:37:45-05:00",
+      "serialNo": 1639,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T08:38:01-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1640,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T08:38:04-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1641,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T08:38:55-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1642,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T08:52:24-05:00",
+      "doorNo": 1,
+      "serialNo": 1644,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T08:52:24-05:00",
+      "cardType": 1,
+      "name": "Juan Luis Alfonso Alva Cuadros",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "76143396",
+      "serialNo": 1643,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.395,
+        "width": 0.199,
+        "x": 0,
+        "y": 0.467
+      }
+    },
+    {
+      "major": 3,
+      "minor": 80,
+      "time": "2026-09-14T08:52:28-05:00",
+      "serialNo": 1645,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 80,
+      "time": "2026-09-14T08:52:29-05:00",
+      "serialNo": 1646,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T08:52:29-05:00",
+      "doorNo": 1,
+      "serialNo": 1647,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 80,
+      "time": "2026-09-14T09:00:32-05:00",
+      "serialNo": 1648,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 80,
+      "time": "2026-09-14T09:03:49-05:00",
+      "serialNo": 1649,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T09:39:03-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1650,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T09:39:07-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1651,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T09:42:25-05:00",
+      "serialNo": 1654,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T09:42:25-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1652,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T09:42:25-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1653,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T09:42:32-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1655,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T09:53:32-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1656,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T10:48:50-05:00",
+      "doorNo": 1,
+      "serialNo": 1658,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T10:48:50-05:00",
+      "cardType": 1,
+      "name": "Jesus David Ledesma Fernandez",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "76339946",
+      "serialNo": 1657,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.353,
+        "width": 0.2,
+        "x": 0.626,
+        "y": 0.605
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T10:48:55-05:00",
+      "doorNo": 1,
+      "serialNo": 1659,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T11:27:03-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1660,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T11:44:21-05:00",
+      "doorNo": 1,
+      "serialNo": 1662,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T11:44:21-05:00",
+      "cardNo": "18446744073609551927",
+      "cardType": 1,
+      "name": "Tamy Adela Chacón Rojas",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "73019151",
+      "serialNo": 1661,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.296,
+        "width": 0.168,
+        "x": 0.551,
+        "y": 0.668
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T11:44:26-05:00",
+      "doorNo": 1,
+      "serialNo": 1663,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:20:24-05:00",
+      "doorNo": 1,
+      "serialNo": 1665,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:20:24-05:00",
+      "cardNo": "18446744073609551927",
+      "cardType": 1,
+      "name": "Tamy Adela Chacón Rojas",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "73019151",
+      "serialNo": 1664,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.655,
+        "width": 0.454,
+        "x": 0.287,
+        "y": 0.34
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:20:29-05:00",
+      "doorNo": 1,
+      "serialNo": 1666,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 80,
+      "time": "2026-09-14T12:20:48-05:00",
+      "serialNo": 1667,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:25:18-05:00",
+      "doorNo": 1,
+      "serialNo": 1669,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:25:18-05:00",
+      "cardNo": "18446744073609551927",
+      "cardType": 1,
+      "name": "Tamy Adela Chacón Rojas",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "73019151",
+      "serialNo": 1668,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.488,
+        "width": 0.342,
+        "x": 0.31,
+        "y": 0.508
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:25:23-05:00",
+      "doorNo": 1,
+      "serialNo": 1670,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:27:08-05:00",
+      "doorNo": 1,
+      "serialNo": 1672,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:27:08-05:00",
+      "cardType": 1,
+      "name": "Mayerly Ayelen Galarza Sanchez",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "60514630",
+      "serialNo": 1671,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.351,
+        "width": 0.198,
+        "x": 0.035,
+        "y": 0.605
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:27:13-05:00",
+      "doorNo": 1,
+      "serialNo": 1673,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:27:18-05:00",
+      "doorNo": 1,
+      "serialNo": 1675,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:27:18-05:00",
+      "cardNo": "18446744073609551933",
+      "cardType": 1,
+      "name": "Tatiana Maybet Pacheco Quijano",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "80836189",
+      "serialNo": 1674,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.325,
+        "width": 0.222,
+        "x": 0.061,
+        "y": 0.67
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:27:23-05:00",
+      "doorNo": 1,
+      "serialNo": 1676,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:27:30-05:00",
+      "doorNo": 1,
+      "serialNo": 1678,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:27:30-05:00",
+      "cardType": 1,
+      "name": "Brayan Jesus Huamalies Rodriguez",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "76515619",
+      "serialNo": 1677,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.68,
+        "width": 0.39,
+        "x": 0.261,
+        "y": 0.315
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:27:35-05:00",
+      "doorNo": 1,
+      "serialNo": 1679,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:27:52-05:00",
+      "doorNo": 1,
+      "serialNo": 1681,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:27:52-05:00",
+      "cardType": 1,
+      "name": "Luis David Tolentino Taype",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "74634898",
+      "serialNo": 1680,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.41,
+        "width": 0.231,
+        "x": 0.084,
+        "y": 0.335
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:27:57-05:00",
+      "doorNo": 1,
+      "serialNo": 1682,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:29:19-05:00",
+      "doorNo": 1,
+      "serialNo": 1684,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:29:19-05:00",
+      "cardType": 1,
+      "name": "Jenifer Mercedes Carhuamaca Morales",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "62916601",
+      "serialNo": 1683,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.438,
+        "width": 0.258,
+        "x": 0.205,
+        "y": 0.557
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:29:24-05:00",
+      "doorNo": 1,
+      "serialNo": 1685,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:29:49-05:00",
+      "doorNo": 1,
+      "serialNo": 1687,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:29:49-05:00",
+      "cardType": 1,
+      "name": "Jhomar Grover Buenalaya Vargas ",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "60316214",
+      "serialNo": 1686,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.57,
+        "width": 0.276,
+        "x": 0,
+        "y": 0.426
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:29:54-05:00",
+      "doorNo": 1,
+      "serialNo": 1688,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:29:56-05:00",
+      "doorNo": 1,
+      "serialNo": 1690,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:29:56-05:00",
+      "cardType": 1,
+      "name": "Luis Angel Lavado Bernando",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "60010984",
+      "serialNo": 1689,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.3,
+        "width": 0.17,
+        "x": 0.674,
+        "y": 0.423
+      }
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:30:01-05:00",
+      "cardType": 1,
+      "name": "Luis Angel Lavado Bernando",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "60010984",
+      "serialNo": 1691,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.412,
+        "width": 0.234,
+        "x": 0.158,
+        "y": 0.304
+      }
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:30:05-05:00",
+      "cardType": 1,
+      "name": "Francisc Leonid De La Cruz Alberto ",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "70945793",
+      "serialNo": 1692,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.322,
+        "width": 0.183,
+        "x": 0.019,
+        "y": 0.516
+      }
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:30:10-05:00",
+      "cardType": 1,
+      "name": "Jeremy Raul Calderon Medina",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "73123591",
+      "serialNo": 1693,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.315,
+        "width": 0.178,
+        "x": 0.305,
+        "y": 0.444
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:30:15-05:00",
+      "doorNo": 1,
+      "serialNo": 1694,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 21,
+      "time": "2026-09-14T12:30:17-05:00",
+      "doorNo": 1,
+      "serialNo": 1696,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 5,
+      "minor": 75,
+      "time": "2026-09-14T12:30:17-05:00",
+      "cardType": 1,
+      "name": "Jhonny Omar Chacón Colonio",
+      "cardReaderNo": 1,
+      "doorNo": 1,
+      "employeeNoString": "8172882",
+      "serialNo": 1695,
+      "userType": "normal",
+      "currentVerifyMode": "faceOrFpOrCardOrPw",
+      "mask": "unknown",
+      "FaceRect": {
+        "height": 0.457,
+        "width": 0.259,
+        "x": 0.72,
+        "y": 0.385
+      }
+    },
+    {
+      "major": 5,
+      "minor": 22,
+      "time": "2026-09-14T12:30:22-05:00",
+      "doorNo": 1,
+      "serialNo": 1697,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T12:49:13-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1698,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T13:55:34-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1699,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T13:55:34-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1700,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 113,
+      "time": "2026-09-14T14:02:37-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1701,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T14:02:37-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1702,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T14:02:57-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1703,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T14:03:07-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1704,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 113,
+      "time": "2026-09-14T14:04:07-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1705,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T14:04:07-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1706,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T14:04:22-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1707,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T14:04:29-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1708,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T14:06:05-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1709,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 113,
+      "time": "2026-09-14T14:07:38-05:00",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1710,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T14:12:25-05:00",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1711,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T14:21:36-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1712,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T14:54:50-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1713,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T14:55:01-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1714,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T15:46:09-05:00",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1715,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 122,
+      "time": "2026-09-14T17:10:30-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1716,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 121,
+      "time": "2026-09-14T17:12:46-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.172",
+      "serialNo": 1717,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    },
+    {
+      "major": 3,
+      "minor": 112,
+      "time": "2026-09-14T17:23:11-05:00",
+      "netUser": "admin",
+      "remoteHostAddr": "192.168.18.168",
+      "serialNo": 1718,
+      "currentVerifyMode": "invalid",
+      "mask": "unknown"
+    }
+  ]
+}
