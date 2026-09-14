@@ -1,0 +1,2 @@
+# IsapiHikVision
+consumo de API
